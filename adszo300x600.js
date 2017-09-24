@@ -1,0 +1,1 @@
+document.write('<iframe id="frameadpreview" src="//www.zoteromedia.com/ads/displayads.php?pid=PUB-08091780&sid=SI-08091782&sizeid=15" scrolling="no" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" async="1" allowtransparency="true"  style="display: inline-block;width: 300px;height: 600px;overflow: hidden;"></iframe>');
